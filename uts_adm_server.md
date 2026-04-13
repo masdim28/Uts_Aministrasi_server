@@ -1,6 +1,7 @@
 LAPORAN
 UTS Administrasi Server (Cloud Computing II) 2025/2026
 Dosen Pengampu : Mohamad Firdaus, M.Kom
+
 Dimas Adriansah | 2388010027 | Informatika 6A
 
 1. Tahap Provisioning & Security
