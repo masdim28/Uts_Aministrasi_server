@@ -23,4 +23,4 @@ Dimas Adriansah | 2388010027 | Informatika 6A
 5. Deployment Web CV
    Source code CV statis (HTML/CSS) dipindahkan dari laptop ke direktori /var/www/html menggunakan protokol SFTP melalui FileZilla. Konfigurasi kepemilikan (ownership) diatur menggunakan chown ke user www-data dan izin akses diatur menggunakan chmod agar website dapat diakses publik tanpa error 403.
    Link Akses Website (Elastic IP): 52.220.149.201
-   ![alt text](<Screenshot 2026-04-13 092516.png>)
+   ![alt text](screencapture-52-220-149-201-2026-04-13-22_52_27.png)
