@@ -5,7 +5,7 @@ Dimas Adriansah | 2388010027 | Informatika 6A
 
 1. Tahap Provisioning & Security
    Saya membuat instance EC2 di region Singapore (ap-southeast-1) menggunakan tipe t3.micro dan OS Ubuntu 24.04 LTS. Saya juga telah mengalokasikan dan menghubungkan Elastic IP 52.220.149.201 ke instance ini agar alamatnya tidak berubah.
-   ![alt text](<Screenshot 2026-04-13 092516-1.png>)
+   ![alt text](<Screenshot 2026-04-12 040203.png>)
 
 2. Konfigurasi Keamanan (Security Group)
    saya telah mengunci akses SSH (Port 22) agar hanya bisa diakses dari IP publik saya sendiri dan membuka akses HTTP (Port 80) untuk public
