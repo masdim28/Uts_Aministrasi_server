@@ -5,7 +5,7 @@ Dosen Pengampu : Mohamad Firdaus, M.Kom
 Dimas Adriansah | 2388010027 | Informatika 6A
 
 1. Tahap Provisioning & Security
-   Saya membuat instance EC2 di region Singapore (ap-southeast-1) menggunakan tipe t3.micro dan OS Ubuntu 24.04 LTS. Saya juga telah mengalokasikan dan menghubungkan Elastic IP 52.220.149.201 ke instance ini agar alamatnya tidak berubah.
+   membuat instance EC2 di region Singapore (ap-southeast-1) menggunakan tipe t3.micro dan OS Ubuntu 24.04 LTS. Saya juga telah mengalokasikan dan menghubungkan Elastic IP 52.220.149.201 ke instance ini agar alamatnya tidak berubah.
    ![alt text](<Screenshot 2026-04-12 040203.png>)
 
 2. Konfigurasi Keamanan (Security Group)
@@ -14,7 +14,7 @@ Dimas Adriansah | 2388010027 | Informatika 6A
 
 3. Ketahanan & Monitoring Infrastruktur
    Untuk menjaga stabilitas, digunakan Elastic IP permanen agar alamat IP tidak berubah. Selain itu, Detailed CloudWatch Monitoring diaktifkan dengan sebuah alarm yang akan berstatus OK jika penggunaan CPU di bawah 80%.
-   ![alt text](<Screenshot 2026-04-12 041423.png>)
+   ![alt text](<Screenshot 2026-04-17 025712.png>)
 
 4. Konfigurasi Web Server Nginx
    Web server Nginx diinstal melalui koneksi SSH (PuTTY). Layanan dipastikan berjalan (active) dan otomatis menyala saat server dijalankan (enabled).
